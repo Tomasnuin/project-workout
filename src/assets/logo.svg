@@ -1,0 +1,16 @@
+<svg width="11.52" height="11.52" xmlns="http://www.w3.org/2000/svg" xmlns:undefined="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+
+ <g>
+  <title>Layer 1</title>
+  <ellipse fill="none" cy="3.24" cx="5.64" ry="0.36" rx="0.84" id="shape0"/>
+  <ellipse fill="none" cy="3.48" cx="5.64" ry="0.36" rx="0.84" id="shape1"/>
+  <path fill="none" d="m8.16,6.24c0,0 0,0 0,0"         id="shape2"/>
+  <ellipse fill="none" cy="4.2" cx="5.88" ry="0.84" rx="1.32" id="shape3"/>
+  <ellipse fill="none" cy="3.6" cx="5.64" ry="1.2" rx="1.32" id="shape4"/>
+  <path  d="m5.75849,0.96306c-0.96698,0.00688 -1.48302,-0.00688 -2.45,0c-0.93613,0.24929 -1.10075,0.74408 -1.00436,1.32194c0.42971,1.07686 1.05489,2.0224 1.63978,2.995l1.7941,0" stroke-linejoin="round" stroke-linecap="square" stroke-width="1.2" stroke="#000000" fill="none" id="shape5"/>
+  <path  d="m5.76151,0.96199c0.96698,0.00688 1.48302,-0.00688 2.45,0c0.93613,0.24929 1.10075,0.74408 1.00436,1.32194c-0.42971,1.07686 -1.05489,2.0224 -1.63978,2.995l-1.8381,0.00107" stroke-linejoin="round" stroke-linecap="square" stroke-width="1.2" stroke="#000000" fill="none" id="shape0"/>
+  <path stroke-linejoin="bevel" stroke-linecap="square" stroke-width="0.72" stroke="#000000" fill-rule="evenodd" fill="#262626" d="m10.43998,7.42922c-0.00774,-1.98822 -2.10932,-3.59516 -4.694,-3.5892c-2.58468,0.00595 -4.6737,1.62255 -4.66596,3.61076c0.00774,1.98822 2.10932,3.59516 4.694,3.5892c2.58468,-0.00595 4.6737,-1.62255 4.66596,-3.61076z"         id="shape6"/>
+  <ellipse stroke-linejoin="bevel" stroke-linecap="square" stroke-width="0.4104" stroke="#297f00" fill="none" cy="7.44" cx="5.76" ry="2.64" rx="3.72" id="shape7"/>
+  <path  d="m2.48194,6.4276c2.04354,-0.02122 2.12547,1.06066 3.27806,1.06066c1.35764,0 1.51612,-0.91217 3.46774,-0.91217" stroke-miterlimit="2" stroke-linecap="square" stroke-width="0.4104" stroke="#297f00" fill="none" id="shape8"/>
+ </g>
+</svg>

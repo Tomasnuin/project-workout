@@ -1,0 +1,25 @@
+.wo-nav{
+    background: linear-gradient(#0000002a, transparent);
+    padding: 0;
+    height: 95px;
+    margin-bottom: 10px;
+    .wo-nav-brand{
+        border: 1px solid black;
+        border-radius: 50px;
+        padding: 10px;
+        background-color: #E98C02;
+        box-shadow: 0 0 10px inset;
+        &:hover{
+            animation-name: logo-hover;
+            animation-duration: .6s;
+            
+        }
+        @keyframes logo-hover {
+            0% {box-shadow: 0 0 10px inset;}
+            10%{box-shadow: none;}
+            50%{box-shadow: 0 0 20px;}
+            90%{box-shadow: none;}
+            100% {box-shadow: 0 0 10px inset}
+        }
+    }
+}

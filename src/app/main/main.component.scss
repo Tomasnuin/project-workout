@@ -1,0 +1,22 @@
+.wo-main-container{
+    background-color: #ffffff90;
+    width: 100%;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 3px 4px 4px #00000090;
+    height: 70vh;
+}
+
+.wo-main-btn{
+    box-shadow: 0 0 20px inset #00000048;
+    background-color: #97CC00;
+    border: 1px solid #3C000090;
+
+    &:hover{
+        background-color: #78a300;
+    }
+
+    &:active{
+        background-color: #50c700;
+    }
+}
